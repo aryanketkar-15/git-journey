@@ -1,0 +1,61 @@
+[33mcommit 01f08469c1315334367c4f3a7264a7a5f205f0b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 12:27:40 2025 +0530
+
+    update one.txt file
+
+[33mcommit 883f3a45c82d2753a3892a7cde1615a3199b47f0[m[33m ([m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 89720f7 2bf7666
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 12:15:29 2025 +0530
+
+    Merge Conflict solved
+
+[33mcommit 89720f713548dcece3d8b76b7e9d2b079f883b48[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 12:12:03 2025 +0530
+
+    added 444 on four.txt
+
+[33mcommit 2bf76668e2aa807f03219be3e03f6981400d8322[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 12:10:54 2025 +0530
+
+    changed 44
+
+[33mcommit dd439cbf40b63611f234bf2082b7de3cea826c85[m
+Merge: 984f30e 8a5b91a
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 11:01:49 2025 +0530
+
+    Merging main into development
+
+[33mcommit 8a5b91a3ab3f2d7fc148a8843ad435e1770f6b74[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 11:00:46 2025 +0530
+
+    I changed four,txt and entered four
+
+[33mcommit 984f30e8a32013fef2168f46504c8fbea9e1aeaf[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 10:56:48 2025 +0530
+
+    I created three.txt and entered three there
+
+[33mcommit 3fa5bd35d2d42b80aba7f521b41ca4fc31080787[m
+Author: aryanketkar-15 <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 10:27:58 2025 +0530
+
+    I have made some changes to files
+
+[33mcommit cd702340a107871d50af42d7ea7bffaccc84c9df[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aryan Ketkar <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 09:48:56 2025 +0530
+
+    Add two.txt with initial content 'two'
+
+[33mcommit 31f5a87b6a54a0d7461948c200b8000134db4ec9[m
+Author: Aryan Ketkar <aryanketkar02@gmail.com>
+Date:   Mon Dec 29 09:48:29 2025 +0530
+
+    Add one.txt with initial content 'one'
